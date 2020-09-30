@@ -1,2 +1,2 @@
 # Games
-Here are some games that engraved with Python
+Here are some amazing games that engraved with Python
